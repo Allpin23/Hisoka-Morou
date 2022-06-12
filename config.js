@@ -18,12 +18,12 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6283167714830','6281382420312','6288292024190']
-global.premium = ['6288292024190']
-global.packname = 'Hisoka Morrow'
-global.author = 'WhatsApp Bot'
-global.sessionName = 'hisoka'
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.owner = ['6289648311511']
+global.premium = ['6289648311511']
+global.packname = 'AlphinBotz'
+global.author = 'PemilikBotz: 089648311511'
+global.sessionName = 'AlphinzBotz'
+global.prefa = ['','!','.',']
 global.sp = '⭔'
 global.mess = {
     success: '✓ Success',
@@ -38,7 +38,7 @@ global.mess = {
 }
 global.limitawal = {
     premium: "Infinity",
-    free: 100
+    free: 10
 }
 global.thumb = fs.readFileSync('./lib/hisoka.jpg')
 global.visoka = { url: 'https://telegra.ph/file/15209657f9d4f59c7ca1e.mp4' }
